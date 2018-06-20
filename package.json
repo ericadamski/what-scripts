@@ -1,0 +1,19 @@
+{
+  "name": "what-scripts",
+  "version": "1.0.0",
+  "description": "What npm scripts do I have in this project",
+  "main": "index.js",
+  "repository": "git@github.com:ericadamski/what-scripts.git",
+  "author": "Eric Adamski <er.adamski@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "what-scripts": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "rxjs": "^6.2.1"
+  }
+}
