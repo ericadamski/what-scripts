@@ -1,6 +1,6 @@
 {
   "name": "what-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "What npm scripts do I have in this project",
   "main": "index.js",
   "repository": "git@github.com:ericadamski/what-scripts.git",
