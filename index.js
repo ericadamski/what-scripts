@@ -16,7 +16,7 @@ access(p).pipe(concatMap(() => read(p, { encoding: 'utf8' })), map(data => JSON.
     console.log(`
     ${cyan.underline(name)} by ${magenta(author)} has the following scripts:
 
-      ${Object.keys(scripts).map(key => `${green(key)} - ${scripts[key]}`).join(EOL)}
+${Object.keys(scripts).map(key => `      ${green(key)} - ${scripts[key]}`).join(EOL)}
     `);
   },
   error(e) {
