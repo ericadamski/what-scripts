@@ -16,5 +16,4 @@ or
 > what-scripts
 ```
 
-![example using local](https://user-images.githubusercontent.com/6516758/41680679-4c2e75e8-74a0-11e8-982f-79dfe6c98f91.gif)
-
+![example using local](https://user-images.githubusercontent.com/6516758/41730461-da30985e-7549-11e8-9945-aa9eb9cc5f24.gif)
